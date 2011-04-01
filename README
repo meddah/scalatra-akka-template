@@ -1,1 +1,1 @@
-This is a template SBT project with Scalatra and Akka.
+This is a template SBT project with Scalatra and Akka.  It uses Scala 2.8.1, SBT 0.7.4, Scalatra 2.0.0, and Akka 1.0.
